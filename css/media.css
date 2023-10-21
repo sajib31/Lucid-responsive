@@ -1,0 +1,317 @@
+@media(max-width:992px){
+    .nav-item {
+        /* margin-left: 20px; */
+        padding: 10px 0;
+        margin-left: 0;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .banner_content h1 {
+        font-size: 26px;
+    }
+    .phone {
+        width: 40%;
+    }
+    .banner_content p {
+        font-size: 16px;
+    }
+    .heading h1 {
+        font-size: 30px;
+    }
+    .feature_item {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .feature {
+        padding: 70px 0 0 0;
+    }
+    .feature_item h2 {
+        font-size: 26px;
+    }
+    .device .heading{
+        margin: 0;
+    }
+    .customize_section .heading {
+        margin-top: 0;
+    }
+    .customize_align {
+        align-items: center;
+    }
+    .owl-carousel .owl-dots {
+        bottom: -30%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .like_info h1 {
+        font-size: 26px;
+    }
+    .like_button {
+        padding: 0;
+        margin: 0;
+        align-items: center;
+    }
+    .like_button .btn_download {
+        margin-left: 0;
+        padding: 0;
+        padding: 12px 10px;
+    }
+    .like_button .btn_view {
+        margin-left: 0;
+        padding: 0;
+        padding: 12px 10px;
+        margin-right: 10px;
+    }
+    .like_row{
+        align-items: center;
+    }
+    .box_area{
+        width: 50%;
+    }
+    .contact_form {
+        width: 70%;
+    }
+}
+
+@media(max-width:768px){
+    .nav-item {
+        /* margin-left: 20px; */
+        padding: 10px 0;
+        margin-left: 0;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .phone {
+        display: none;
+    }
+    .banner {
+        text-align: center;
+    }
+    .banner_content {
+        margin-top: 30px;
+        padding-bottom: 50px;
+    }
+    .phone_img_banner{
+        display: inherit;
+        text-align: center;
+    }
+    .phone_img_banner img {
+        width: 200px;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .banner_content h1 {
+        font-size: 38px;
+    }
+    .btn_download {
+        padding: 10px 18px;
+    }
+    .btn_view {
+        padding: 10px 18px;
+    }
+    .feature_item {
+        margin-bottom: 30px;
+    }
+    .heading h1 {
+        font-size: 34px;
+    }
+    .feature_item h2 {
+        font-size: 26PX;
+    }
+    .feature_item p {
+        font-size: 15px;
+    }
+    .feature {
+        padding: 70px 0 20px 0;
+    }
+    .phone_two {
+        text-align: center;
+    }
+    .phone_two img {
+       width: 80%;
+    }
+    .device .heading, .customize_section .heading {
+        margin-top: 20px;
+        
+    }
+    .heading {
+        text-align: center !important;
+    }
+    .device .heading span, .customize_section .heading span {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .owl-carousel .owl-dots {
+        bottom: -50px;
+    }
+    .like_info h1 {
+        font-size: 22px;
+    }
+    .like_row{
+         align-items: center;
+    }
+    .like_button .btn_view{
+        padding: 10px 12px;
+    }
+    .like_button .btn_download{
+        padding: 10px 12px;
+        margin-left: 8px;
+    }
+    .like {
+        padding: 30px 0;
+    }
+    .pricing_box {
+        margin-top: 30px;
+    }
+    .info {
+        margin-bottom: 30px;
+    }
+    .contact {
+        padding: 50px 0;
+        padding-bottom: 400px;
+    }
+
+}
+    
+@media(max-width:576px){
+    .img-fluid {
+        width: 90%;
+    }
+    .nav-item {
+        margin-left: 0;
+        padding: 10px;
+    }
+    .nav-link {
+        display: inline-block;
+        font-size: 16px;
+    }
+    .navbar-nav {
+        margin-left: auto!important;
+        
+    }
+    .phone{
+        display: none;
+    }
+    .banner{
+        text-align: center;
+    }
+    .btn_view {
+        padding: 8px 12px;
+        margin-left: 5px;
+        margin-bottom: 50px;
+    }
+    .btn_download {
+        padding: 8px 12px;
+        margin-bottom: 50px;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .banner {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .phone_img_banner{
+        display: inherit;
+        text-align: center;
+        width: 200px;
+        margin: auto;
+        
+    }
+   .feature_item {
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .phone_two {
+        text-align: center;
+        
+    }
+    .phone_two img {
+        width: 170px;
+    }
+    .feature {
+        padding: 70px 0 0 0;
+    }
+    .heading h1 {
+        font-size: 25px;
+    }
+    .feature_item h2 {
+        font-size: 22px;
+    }
+    .feature_item p {
+        font-size: 15px;
+    }
+    .device .heading, .customize_section .heading {
+        margin-top: 30px;
+    }
+    .device p, .customize_section .heading p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .testimonial p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .owl-carousel .owl-dots {
+        bottom: -50px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .like {
+        padding: 40px 0 0 0;
+    }
+    .like_info h1 {
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .like_button{
+        text-align: center;
+    }
+    .like_button {
+        justify-content: center;
+    }
+    .btn_download {
+        margin-left: 5px;
+    }
+    .pricing_section {
+        padding: 50px 0;
+    }
+    .box_area{
+        width: 100%;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .contact_form {
+        padding: 25px 30px;
+        width: 85%;
+    }
+    .contact_form form input {
+        font-size: 15px;
+    }
+    
+    .contact_form form textarea {
+        font-size: 15px;
+    }
+    .contact_form form input[type='submit'] {
+            padding: 8px 10px;
+            font-size: 14px;
+    }
+    .contact {
+        padding-bottom: 350px;
+    }
+    .copy_right p {
+
+        font-size: 14px;
+    }
+}
+
